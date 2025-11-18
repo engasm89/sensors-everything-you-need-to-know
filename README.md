@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Sensors: Everything You Need To Know
-
-- Course: Sensors: Everything You Need To Know
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/sensors-interfacing-sensor-wiring-sensor-temperature-humidity-sensors/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Understand sensor types, wiring, interfacing, and calibration for reliable readings.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and master sensors.
